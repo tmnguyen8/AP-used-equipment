@@ -1,0 +1,51 @@
+.my-card {
+    text-align: center;
+    width: 100%;
+    
+}
+.first-card-title {
+    background-color: rgba(8, 63, 165, 0.5);
+    font: white;
+}
+.first-card-logo {
+    width: 70%;
+    position: absolute;
+    top:30%;
+    left: 15%;
+}
+.first-card-text {
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 15%;
+}
+.first-card-break {
+    border: 3px solid green;
+    width: 30%;
+    position: absolute;
+    top: 85%;
+    left: 35%
+}
+.second-card-text {
+    text-align: left;
+    width: 90%;
+    position: absolute;
+    margin-left: 7%;
+    color: rgb(2,34,92);
+}
+.second-card-break-one {
+    width: 70%;
+    margin-left: 0;
+    border: 3px solid rgb(2,34,92);
+    margin: 10% 0;
+}
+.second-card-break-two {
+    width: 40%;
+    margin-left: 0;
+    border: 3px solid rgb(2,34,92);
+    margin: 10% 0;
+}
+.my-para {
+    width: 60%;
+    margin-top: 10%;
+}
