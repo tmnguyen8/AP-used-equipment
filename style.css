@@ -49,3 +49,35 @@
     width: 60%;
     margin-top: 10%;
 }
+.third-card-text {
+    background-color: rgba(155, 157, 160, 0.5);
+    width: 70%;
+    margin-top: 8%;
+}
+.my-para-two {
+    text-align: left;
+    color: white;
+    width: 65%;
+    margin-left: 10%;
+    margin-top: 13%;
+}
+.fourth-card-text {
+    text-align: left;
+    color: green;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.my-list {
+    text-align: left;
+    width: 70%;
+    margin-left: 35%;
+    margin-top: 5%
+}
+.fifth-card-text {
+    color: white; 
+    background: rgb(2,34,94); 
+    padding: 10px;
+}
+a:hover { 
+    background-color: rgb(155, 190, 236);
+  }
