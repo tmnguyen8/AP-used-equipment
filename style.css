@@ -20,10 +20,10 @@
     left: 15%;
 }
 .first-card-break {
-    border: 3px solid green;
+    border: 6px solid green;
     width: 30%;
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 35%
 }
 .second-card-text {
@@ -80,4 +80,10 @@
 }
 a:hover { 
     background-color: rgb(155, 190, 236);
+}
+.link1 {
+    padding-right: 30px;
+}
+.link2 {
+    padding-left: 30px;
 }
