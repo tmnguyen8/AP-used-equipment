@@ -50,9 +50,10 @@
     margin-top: 3%;
 }
 .third-card-text {
-    background-color: rgba(155, 157, 160, 0.5);
+    background-color: rgba(211, 217, 226, 0.6);
     width: 70%;
     margin-top: 8%;
+    color: green;
 }
 .my-para-two {
     text-align: left;
