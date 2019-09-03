@@ -30,14 +30,14 @@
     text-align: left;
     width: 90%;
     position: absolute;
-    margin-left: 7%;
+    margin-left: 5%;
     color: rgb(2,34,92);
 }
 .second-card-break-one {
     width: 70%;
     margin-left: 0;
     border: 3px solid rgb(2,34,92);
-    margin: 10% 0;
+    margin: 5% 0;
 }
 .second-card-break-two {
     width: 40%;
@@ -47,7 +47,7 @@
 }
 .my-para {
     width: 60%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .third-card-text {
     background-color: rgba(155, 157, 160, 0.5);
